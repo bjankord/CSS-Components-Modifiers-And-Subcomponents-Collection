@@ -5,7 +5,7 @@ A collection of common CSS module, component, and modifier class names from arou
 
 ## What are CSS modules, components, and modifiers?
 
-Recently I've been researching SMACSS by Johnathon Snook and the BEM methodolgy by Yandex as well as examing my own 
+Recently I've been researching [SMACSS](http://smacss.com) by [Johnathan Snook](https://twitter.com/snookca)  and the [BEM Methodology](http://bem.info/) by Yandex as well as examing my own 
 style of crafting CSS. I've started adopting an approach based on SMACSS that uses the Base, Layout, Module, State 
 approach for structuring my CSS, though I'ved expanded on the concept of modules based on my research
 into the BEM methodolgy. I've started using a pattern which I refer to it as Module, Component, Modifier.
@@ -42,3 +42,11 @@ Examples of the above modifiers in use would look like:
 
 ## What is this repo?
 This repo is simply a collection of common module names, component names, and modifier names from around the web. I believe naming things is one of the hardest parts of coding. How you style the elements is up to you, though I thought it would be nice to come up with a collection of common/popular HTML class names for modules, components, and modifiers to help create more standardization in my projects.
+
+## Credit
+
+- [Johnathan Snook](https://twitter.com/snookca) - [SMACSS](http://smacss.com)
+- Yandex - [BEM Methodology](http://bem.info/)
+- [Harry Roberts](https://twitter.com/csswizardry) - [inuit.css](http://inuitcss.com/)
+- [Jacob Thornton](https://twitter.com/fat) and anyone who has contributed to [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+- Any developer interested in creating modular, reusable, CSS
