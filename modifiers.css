@@ -1,0 +1,98 @@
+/* Modifier names from around the Web
+--------------------------------------------------*/
+
+/* Works well with navigation 
+ * ----------------------------------------
+ * Example: .nav--main, .nav--breadcrumbs, .nav--pagination
+ */
+--breadcrumbs {}
+--main {}
+--pagination {}
+--pills {}
+--stacked {}
+--tabs {}
+
+
+/* Works well with images/grids
+ * ----------------------------------------
+ * Example: .img--left, .img--center, .col--pull-left
+ */
+
+--left {}
+--pull-left {}
+--push-left {}
+--right {}
+--pull-right {}
+--push-right {}
+--center {}
+--rounded {}
+--circle {}
+--polaroid {}
+
+
+/* Works well with alerts
+ * ----------------------------------------
+ * Example: .alert--success, .alert--warning
+ */
+
+--success {}
+--warning {}
+--danger {}
+--info {}
+--primary {}
+--secondary {}
+
+
+/* Works well with forms
+ * ----------------------------------------
+ * Example: .form--inline, .form--search, .form--horizontal
+ */
+
+--additional {}
+--note {}
+--stacked {}
+
+
+/* Works well with labels
+ * ----------------------------------------
+ * Example: .label--stacked, .label--note, .label--additional
+ */
+
+--additional {}
+--note {}
+--stacked {}
+
+
+/* Works well with inputs, selects, texatareas
+ * ----------------------------------------
+ * Example: .input--select, .input--textarea
+ */
+
+--select {}
+--textarea {}
+
+
+/* Works well with pages/links 
+ * ----------------------------------------
+ * Example: .page--current, .link--current, .nav-item--current
+ */
+
+--current
+
+
+/* Works well with uls
+ * ----------------------------------------
+ * Example: .list--numbered
+ */
+
+--numbered {} /* Have a numbered `ul` without the semantics implied by using an ol. */
+
+
+/* Works well with tables
+ * ----------------------------------------
+ * Example: .table--striped, .table--data, .table-bordered
+ */
+
+--bordered {}
+--data {}
+--striped {}
