@@ -6,9 +6,9 @@ A collection of common CSS module, component, and modifier class names from arou
 ## What are CSS modules, components, and modifiers?
 
 Recently I've been researching [SMACSS](http://smacss.com) by [Johnathan Snook](https://twitter.com/snookca)  and the [BEM Methodology](http://bem.info/) by Yandex as well as examing my own 
-style of crafting CSS. I've started adopting an approach based on SMACSS that uses the Base, Layout, Module, State 
+style of crafting CSS. I've started adopting an approach based on SMACSS that uses the **Base, Layout, Module, State** 
 approach for structuring my CSS, though I'ved expanded on the concept of modules based on my research
-into the BEM methodolgy. I've started using a pattern which I refer to it as Module, Component, Modifier.
+into the BEM methodolgy. I've started using a pattern which I refer to it as **Module, Component, Modifier**.
 
 ### Modules
 
