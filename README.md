@@ -1,14 +1,14 @@
-CSS Modules, Components, and Modifiers Collection
-=================================================
+CSS Modules, Subcomponents, and Modifiers Collection
+====================================================
 
-A collection of common CSS module, component, and modifier class names from around the web.
+A collection of common CSS module, subcomponent, and modifier class names from around the web.
 
-## What are CSS modules, components, and modifiers?
+## What are CSS modules, subcomponents, and modifiers?
 
 Recently I've been researching [SMACSS](http://smacss.com) by [Johnathan Snook](https://twitter.com/snookca)  and the [BEM Methodology](http://bem.info/) by Yandex as well as examing my own 
 style of crafting CSS. I've started adopting an approach based on SMACSS that uses the **Base, Layout, Module, State** 
 approach for structuring my CSS, though I'ved expanded on the concept of modules based on my research
-into the BEM methodolgy. I've started using a pattern which I refer to it as **Module, Component, Modifier**.
+into the BEM methodolgy. I've started using a pattern which I refer to it as **Module, Subcomponent, Modifier**.
 
 ### Modules
 
@@ -17,9 +17,9 @@ A few examples of modules that come to mind are things like:
 
 `.nav, .alert, .btn, .modal`
 
-### Components
+### Subcomponents
 
-Components are the inside parts of a module, if it has any. They make up the module. For example, with a .modal module you might have the following components:
+Subcomponents are the inside parts of a module, if it has any. They make up the module. For example, with a .modal module you might have the following components:
 
 `.modal-header, .modal-body, .modal-footer`
 
@@ -29,7 +29,7 @@ Another example would be a `.post` module. With it, you have to following compon
 
 ### Modifiers
 
-Again, if you are familiar with SMACSS, you already know what modifiers are. Snook refers to them sub-modules, though after reading over the BEM methodolgy, I prefer to call these modifiers.
+Again, if you are familiar with SMACSS, you already know what modifiers are. Snook refers to them submodules, though after reading over the BEM methodolgy, I prefer to call these modifiers.
 The concept is simple, we use modifiers to modify instances of a module. Some examples of modifiers are things like
 
 `--bread-crumbs, --success, --submit`
@@ -42,6 +42,9 @@ Examples of the above modifiers in use would look like:
 
 ## What is this repo?
 This repo is simply a collection of common module names, component names, and modifier names from around the web. I believe naming things is one of the hardest parts of coding. How you style the elements is up to you, though I thought it would be nice to come up with a collection of common/popular HTML class names for modules, components, and modifiers to help create more standardization in my projects.
+
+## More thoughts on HTML Class naming conventions.
+I've jotted down some thoughts on [HTML Class naming conventions](http://www.brettjankord.com/2013/03/06/more-thoughts-on-html-class-naming-conventions/) on my blog. Have a certain way you name your modules, subcomponents, and modifiers? Let me know.
 
 ## Credit
 
