@@ -96,3 +96,12 @@
 --bordered {}
 --data {}
 --striped {}
+
+
+/* Works well with hero images/slideshows
+ * ----------------------------------------
+ * Example: .hero--slideshow, .hero--graphic if single image is used
+ */
+
+--slideshow {}
+--graphic {}
