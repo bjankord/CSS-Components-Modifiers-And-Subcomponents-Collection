@@ -48,9 +48,9 @@
  * Example: .form--inline, .form--search, .form--horizontal
  */
 
---additional {}
---note {}
---stacked {}
+--inline {}
+--search {}
+--horizontal {}
 
 
 /* Works well with labels
