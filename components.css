@@ -1,14 +1,13 @@
-/* Module names from around the Web
+/* Component names from around the Web
 --------------------------------------------------*/
 
-/* Misc. Module names
+/* Misc. Component names
 ----------------------------------------*/
 .caption {}
 .control-set {}
 .copyright {}
 .featured {}
 .form {}
-.form-row {}
 .group{}
 .heading {}
 .highlight {}
@@ -20,7 +19,7 @@
 .billboard /* for a 'hero' section - https://twitter.com/csswizardry/status/385383475743694848 */a
 
 
-/* Module names from inuit.css
+/* Component names from inuit.css
  * https://github.com/csswizardry/inuit.css
 ----------------------------------------*/
 .cite {}
@@ -36,7 +35,7 @@
 .text-input {}
 
 
-/* Module names from Twitter Bootstrap
+/* Component names from Twitter Bootstrap
  * https://github.com/csswizardry/inuit.css
 ----------------------------------------*/
 .accordion {}
